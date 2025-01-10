@@ -19,7 +19,7 @@ Wanderlust is an online travel booking platform designed to offer a seamless exp
 
 
 ## Hosted URL
-[Wanderlust Live Site](https://wanderlust.example.com) (Replace with your actual hosted URL)
+[Wanderlust Live Site](https://wanderlust.example.com) 
 
 ## Features Implemented
 ### Frontend
@@ -42,7 +42,7 @@ Wanderlust is an online travel booking platform designed to offer a seamless exp
 - **Backend**:
   - Node.js
   - Express.js
-  - MongoDB (or any other database used)
+  - MongoDB 
 - **Others**:
   - Ngrok (for tunneling during development)
   - Postman (for API testing)
